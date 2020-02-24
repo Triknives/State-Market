@@ -31,7 +31,7 @@ import React from 'react';
                 )
               ) : (
                 <tr>
-                  <td colSpan={3}>No food for a lazy man</td>
+                  <td colSpan={3}></td>
                 </tr>
               )
             }
