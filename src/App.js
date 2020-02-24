@@ -1,7 +1,7 @@
 import React from 'react';
-import FoodItemList from './FoodItemList';
-import AddFoodItem from './AddFoodItem';
-import EditFoodItem from './EditFoodItem';
+import FoodItemList from './components/FoodItemList';
+import AddFoodItem from './components/AddFoodItem';
+import EditFoodItem from './components/EditFoodItem';
 import './App.css';
 
 

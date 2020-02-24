@@ -30,9 +30,7 @@ import React from 'react';
                   )
                 )
               ) : (
-                <tr>
-                  <td colSpan={3}></td>
-                </tr>
+                <tr></tr>
               )
             }
         </tbody>
