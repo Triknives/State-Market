@@ -2,7 +2,7 @@ import React from 'react';
 import FoodItemList from './FoodItemList';
 import AddFoodItem from './AddFoodItem';
 import EditFoodItem from './EditFoodItem';
-
+import './App.css';
 
 
 class App extends React.Component {
